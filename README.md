@@ -1,2 +1,2 @@
-# vectorNNtoolbox
-Vector-neuron deep learning toolbox
+# Vector-neuron deep learning toolbox
+Under construction
