@@ -9,7 +9,7 @@ Under construction.
 Zhe-Cheng Fan, Tak-Shing T. Chan, Yi-Hsuan Yang, Jyh-Shing R. Jang  
 in *Transactions on Neural Networks and Learning Systems* (TNNLS), 2019, accepted for publication  
 
-**Deep Cyclic Group Networks** 
+**Deep Cyclic Group Networks**  
 Zhe-Cheng Fan, Tak-Shing T. Chan, Yi-Hsuan Yang, Jyh-Shing R.Jang,
 in *International Joint Conference of Neural Networks* (IJCNN), Budapest, July 2019.
 
