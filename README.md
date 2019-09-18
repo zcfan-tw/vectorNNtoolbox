@@ -4,4 +4,6 @@ Under construction.
 
 
 # Papers
-Zhe-Cheng Fan, Tak-Shing T. Chan, Yi-Hsuan Yang, Jyh-ShingR. Jang, “Backpropagation withN-D Vector-Valued Neurons Using Ar-bitraryBilinearProducts,”TransactionsonNeuralNetworksandLearningSystems (TNNLS), 2019, accepted for publication
+Backpropagation with N-D Vector-Valued Neurons Using Arbitrary Bilinear Products
+Zhe-Cheng Fan, Tak-Shing T. Chan, Yi-Hsuan Yang, Jyh-Shing R. Jang
+in TransactionsonNeuralNetworksandLearningSystems (TNNLS), 2019, accepted for publication
