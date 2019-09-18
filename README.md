@@ -11,7 +11,7 @@ in *Transactions on Neural Networks and Learning Systems* (TNNLS), 2019, accepte
 
 **Deep Cyclic Group Networks** 
 Zhe-Cheng Fan, Tak-Shing T. Chan, Yi-Hsuan Yang, Jyh-Shing R.Jang,
-in *International Joint Conference ofNeural Networks* (IJCNN), Budapest, July 2019.
+in *International Joint Conference of Neural Networks* (IJCNN), Budapest, July 2019.
 
 **Music Signal Processing Using Vector Product Neural Networks**
 Zhe-Cheng Fan, Tak-Shing T. Chan, Yi-Hsuan Yang, Jyh-Shing R.Jang
