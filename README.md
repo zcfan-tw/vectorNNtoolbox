@@ -10,7 +10,7 @@ Below we assume the working directory is the repository root.
 - Python 3.5.2
 - Tensorflow 1.12.0
 - LibROSA 0.6.3
-- Cuda-9.0
+- Cuda-9.000
 
 ## Papers
 
