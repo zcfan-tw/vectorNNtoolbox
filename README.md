@@ -1,9 +1,18 @@
 # Vector-neuron deep learning toolbox
-Under construction.
+Vetor-neuron deep learning toolbox (vectorNNtoolbox) is a project on vector-valued nerual networks. We propose the backpropagation learning algorithm with vector-valued neurons. The idea is to extend the data type of each neuron from scalars to vectors by replacing multiplications with arbitrary bilinear products. We evalute the model on the tasks of singing voice separation, hyperspectral image denoising and image inpainting.
 
+The vectorNNtoolbox consists of the implementation of vector-valued neural networks with Tensorflow and MATLAB. The evalution tasks are only implemented in Python code.
 
+## Getting Started
+Below we assume the working directory is the repository root.
 
-# Papers
+### Requirements
+- Python 2.7
+- PyTorch 0.4.0
+- LibROSA 0.5.0
+- Cuda-9.0
+
+## Papers
 
 **Backpropagation with *N*-D Vector-Valued Neurons Using Arbitrary Bilinear Products**  
 Zhe-Cheng Fan, Tak-Shing T. Chan, Yi-Hsuan Yang, Jyh-Shing R. Jang  
